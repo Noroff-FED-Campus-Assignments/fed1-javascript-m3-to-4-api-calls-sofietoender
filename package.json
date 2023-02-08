@@ -1,0 +1,16 @@
+{
+  "name": "fed-javascript1-api-calls",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "vite": "^4.1.0"
+  }
+}
